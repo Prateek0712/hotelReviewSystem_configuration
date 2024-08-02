@@ -1,6 +1,6 @@
-server:
-  port: 8089
-
+spring:
+  application:
+    name: DEVIL
 eureka:
   instance:
     prefer-ip-address: true
