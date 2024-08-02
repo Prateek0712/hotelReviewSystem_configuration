@@ -1,6 +1,4 @@
-spring:
-  application:
-    name: DEVIL
+
 eureka:
   instance:
     prefer-ip-address: true
